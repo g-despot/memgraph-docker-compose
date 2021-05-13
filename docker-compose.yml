@@ -2,7 +2,7 @@ version: "3"
 services:
   memgraph:
     image: memgraph/memgraph
-    container_name: memgraph_3
+    container_name: memgraph
     user: root
     volumes:
       - ./memgraph/entrypoint:/usr/lib/memgraph/entrypoint
