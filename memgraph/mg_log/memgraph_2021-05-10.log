@@ -1,3 +1,0 @@
-[2021-05-10 10:11:14.345] [memgraph_log] [warning] No snapshot or WAL file found!
-[2021-05-10 10:11:14.721] [memgraph_log] [warning] Using non-secure Bolt connection (without SSL)
-[2021-05-10 10:11:28.662] [memgraph_log] [warning] Using non-secure Bolt connection (without SSL)
